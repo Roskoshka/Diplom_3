@@ -7,3 +7,4 @@ CLOSE_BUTTON = (By.XPATH, "//button[@class='Modal_modal__close_modified__3V5XS M
 ORDER_BASKET = (By.XPATH, "//ul[@class='BurgerConstructor_basket__list__l9dp_']")
 BUTTON_MAKE_ORDER = (By.XPATH, "//button[text()='Оформить заказ']")
 CONFIRMATION_TEXT = (By.XPATH, "//p[text()='Ваш заказ начали готовить']")
+BUTTON_ENTER = (By.XPATH, "//button[text()='Войти']")
